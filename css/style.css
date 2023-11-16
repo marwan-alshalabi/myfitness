@@ -1,0 +1,89 @@
+.body{
+    font-family: YAFdJl3zAt0-0;
+}
+
+.banner{
+    background-color: black;
+}
+
+.nav-brand {
+    display: flex;
+    position: absolute;
+    
+  }
+  
+.nav-brand img {
+    width: 200px;
+  }
+ 
+.banner-1 h1{
+    color: white;
+    font-size: 80px;
+    font-family: YAFdJl3zAt0-0;
+    line-height: 0.97767813em;
+    text-transform: uppercase;
+    letter-spacing: 0em;
+    
+  }
+  .top-text{
+    padding-top: 90px;
+  }
+
+
+.text-1 h1{
+    z-index: 7;
+  }
+
+.btn{
+    border: 20px;
+    background-color: #ccfe06;
+    border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.067em;
+    
+  }
+
+.btn h5{
+    padding: inherit;
+  }
+
+  .banner .banner-3 .cirlce-text, h4  {
+    color: black;
+    font-family: YAFdJl3zAt0-0;
+    border-radius: 50%;
+    background-color:#ccfe06 ;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+  }
+  
+.img-d{
+    position: absolute;
+    width: 100%;
+  }
+
+.img-1{
+    position: relative;
+    width: 500px;
+    
+  }
+
+.ma{
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: 9;
+    margin-right: 10px;
+    margin: 50px;
+    width: 240px;
+    height: 120px;
+    overflow: hidden;
+  }
+
+
+ 
+ 
