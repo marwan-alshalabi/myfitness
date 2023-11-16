@@ -1,7 +1,7 @@
 .body{
     font-family: YAFdJl3zAt0-0;
 }
-
+/* blog 1 */
 .banner{
     background-color: black;
 }
@@ -25,7 +25,8 @@
     letter-spacing: 0em;
     
   }
-  .top-text{
+
+.top-text{
     padding-top: 90px;
   }
 
@@ -34,7 +35,7 @@
     z-index: 7;
   }
 
-.btn{
+.btn-1{
     border: 20px;
     background-color: #ccfe06;
     border-radius: 0px 0px 0px 0px;
@@ -46,11 +47,11 @@
     
   }
 
-.btn h5{
+.btn-1 h5{
     padding: inherit;
   }
 
-  .banner .banner-3 .cirlce-text, h4  {
+.cirlce-text, h4  {
     color: black;
     font-family: YAFdJl3zAt0-0;
     border-radius: 50%;
@@ -84,6 +85,39 @@
     overflow: hidden;
   }
 
-
+/* blog 2 */
+.blog-2 {
+background-color: #ccfe06
+}
  
+.text-2 {
+    color: black;
+    font-size: 60px;
+    font-family: YAFdJl3zAt0-0;
+    line-height: 0.97767813em;
+    text-transform: uppercase;
+    letter-spacing: 0em;
+    margin-left: -115px;
+    margin-top: 15px;
+}
+
+
+.btn-2{
+    margin-left: -110px;
+    text-decoration: none;
+    color: white;
+    border: 20px;
+    background-color: black;
+    border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    
+    text-transform: uppercase;
+    letter-spacing: 0.067em;
+}
+
+.btn-2 h5{
+    padding: inherit;
+}
+
  
